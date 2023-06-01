@@ -1,0 +1,149 @@
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	
+	font-size: 15px;
+	line-height: 1.6;
+	color: #333;
+}
+
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5{
+margin: 0;
+}
+
+.font {
+ font-family: "Bradley Hand";
+}
+
+/*.container{
+width: 100%;
+max-width: 1200px;
+margin: 0 auto;
+}*/
+
+/* intro */
+.intro {
+	background-image: url("Images/Background_site_13.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 820px;
+   width: 1920px;
+} 
+.intro_2 {
+ background-image: url("Images/Background_site_5.png");
+ background-size: no-repeat;
+ background-position: center;  
+ background-size: cover;
+ height: 80px;
+ width: 1920px; 
+}
+.intro_2_1{
+ background-image: url("Images/Background_site_13.png");
+ background-size: no-repeat;
+ background-position: center;  
+ background-size: cover;
+ height: 720px;
+ width: 1920px; 
+}
+.intro_2_2 {
+ background-image: url("Images/Background_site_5.png");
+ background-size: no-repeat;
+ background-position: center;  
+ background-size: cover;
+ height: 25px;
+ width: 1920px; 
+}
+.intro_2_3 {
+	background-image: url("Images/Background_site_13.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 820px;
+   width: 1920px;
+} 
+.intro_3 {
+	background-image: url("Images/Background_site_8.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 928px;
+   width: 1920px;
+} 
+.intro_4 {
+	background-image: url("Images/Background_site_14.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 778px;
+   width: 1920px;
+}
+.intro_5 {
+	background-image: url("Images/Background_site_11.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 775px;
+   width: 1920px;
+}  
+.intro_6 {
+	background-image: url("Images/Background_site_11.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 775px;
+   width: 1920px;
+} 
+.intro_7 {
+	background-image: url("Images/Background_site_10.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 900px;
+   width: 1920px;
+} 
+.intro_8{
+	background-image: url("Images/Background_site_6.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 820px;
+   width: 1920px;
+}
+.intro_9{
+	background-image: url("Images/Background_site_8.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 920px;
+   width: 1920px;
+}
+.intro_10{
+	background-image: url("Images/Background_site_12.png"); 
+	background-size: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 920px;
+   width: 1920px;
+}
+
+.foto IMG { position: relative; }
+.First_foto { left: 5px; z-index: 2; }
+.Second_foto { left: 350px; top: 0px; z-index: 1; }
+.Third_foto { left: 600px; top: -400px; z-index: 3; }
+
+#rectangle {
+    width: 1920px;
+    height: 110px;
+    background: Black;
+}
+#rectangle_2 {
+	 width: 1920px;
+    height: 130px;
+    background: Black;
+}
